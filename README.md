@@ -5,36 +5,36 @@ Built with LangChain, embeddings, and vector stores to provide accurate and cont
 
 🚀 Features
 
-Upload any PDF and parse its content
+🔹Upload any PDF and parse its content
 
-Generate embeddings for chunks of the PDF
+🔹Generate embeddings for chunks of the PDF
 
-Store embeddings in a vector database for efficient retrieval
+🔹Store embeddings in a vector database for efficient retrieval
  
-Ask questions in natural language and get precise answers
+🔹Ask questions in natural language and get precise answers
 
-Powered by LangChain for document retrieval and LLM integration
+🔹Powered by LangChain for document retrieval and LLM integration
 
-Simple and modular codebase for easy customization
+🔹Simple and modular codebase for easy customization
 
 🏗️ Tech Stack
 
-Python 3.10+
+🔹Python 3.10+
 
-LangChain
+🔹LangChain
 
-FAISS / Chroma (Vector Store)
+🔹FAISS / Chroma (Vector Store)
 
-OpenAI or HuggingFace LLMs
+🔹OpenAI or HuggingFace LLMs
 
-PyPDF2 / pdfplumber for PDF text extraction
+🔹PyPDF2 / pdfplumber for PDF text extraction
 
 📖 How It Works
 
-Extract PDF text → Split into smaller chunks
+1️⃣ Extract PDF text → Split into smaller chunks
 
-Generate embeddings → Store in vector database
+2️⃣ Generate embeddings → Store in vector database
 
-Ask question → LangChain retrieves relevant chunks
+3️⃣ Ask question → LangChain retrieves relevant chunks
 
-LLM answers → Combines retrieved chunks into a response
+4️⃣ LLM answers → Combines retrieved chunks into a response
