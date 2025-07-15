@@ -19,15 +19,15 @@ Built with LangChain, embeddings, and vector stores to provide accurate and cont
 
 🏗️ Tech Stack
 
-🔹Python 3.10+
+-> Python 3.10+
 
-🔹LangChain
+-> LangChain
 
-🔹FAISS / Chroma (Vector Store)
+-> FAISS / Chroma (Vector Store)
 
-🔹OpenAI or HuggingFace LLMs
+-> OpenAI or HuggingFace LLMs
 
-🔹PyPDF2 / pdfplumber for PDF text extraction
+-> PyPDF2 / pdfplumber for PDF text extraction
 
 📖 How It Works
 
